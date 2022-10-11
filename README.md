@@ -1,2 +1,4 @@
-# ztm_rust
-ZTM Rust course solutions
+
+Some solutions for ZTM Rust Programming: The Complete Developer's Guide
+
+
